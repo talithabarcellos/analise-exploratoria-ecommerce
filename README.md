@@ -114,4 +114,4 @@ Python, pandas, matplotlib, seaborn, scipy, pathlib e Jupyter Notebook.
 
 ## Autoria
 
-Projeto desenvolvido por **Talitha Barreyra Barcellos** como parte do curso de Visualização de Dados da EBAC.
+Projeto desenvolvido por **Talitha Barreyra Barcellos** como parte do curso de Profissão: Analista de Dados do módulo Python: Visualização de Dados da EBAC.
